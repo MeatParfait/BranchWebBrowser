@@ -1,0 +1,30 @@
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\bin\Debug\BranchWebBrowser.exe.config
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\bin\Debug\BranchWebBrowser.exe
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\bin\Debug\BranchWebBrowser.pdb
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.csprojAssemblyReference.cache
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\MainWindow.g.cs
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\App.g.cs
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser_MarkupCompile.cache
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser_MarkupCompile.lref
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\MainWindow.baml
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.g.resources
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.Properties.Resources.resources
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.csproj.GenerateResource.cache
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.csproj.CoreCompileInputs.cache
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.exe
+D:\project\Visual Studio\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.pdb
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\bin\Debug\BranchWebBrowser.exe.config
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\bin\Debug\BranchWebBrowser.exe
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\bin\Debug\BranchWebBrowser.pdb
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.csprojAssemblyReference.cache
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\MainWindow.g.cs
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\App.g.cs
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser_MarkupCompile.cache
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser_MarkupCompile.lref
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\MainWindow.baml
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.g.resources
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.Properties.Resources.resources
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.csproj.GenerateResource.cache
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.csproj.CoreCompileInputs.cache
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.exe
+D:\project\Git\BranchWebBrowser\BranchWebBrowser\BranchWebBrowser\obj\Debug\BranchWebBrowser.pdb
