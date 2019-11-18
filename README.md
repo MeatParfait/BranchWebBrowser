@@ -3,6 +3,8 @@ Branch WebBrowser(가지 웹브라우저) is a web browser that manages bookmark
 One bookmark tree is saved in one brc file.
 You can make various trees and send it to share your own tree database.
 
+![bwb_image1.png](BranchWebBrowser/images/bwb_image1.png)
+
 # How to use
 1. Execute BranchWebBrowser
 2. Click "새로 만들기" button
